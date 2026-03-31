@@ -545,9 +545,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 1B - OUTPUT
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/45a54a31-8bbb-433a-a286-ea458605cab1" />
+<img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/4141a27e-4fd3-4d43-8c87-5fa139ce9774" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/01f3e127-2d13-461e-8f3c-7435011b984f" />
+
+<img width="1280" height="570" alt="image" src="https://github.com/user-attachments/assets/1630e9fc-851c-4b17-bbc2-c5c5de89df41" />
+
 
 
 ## Result
